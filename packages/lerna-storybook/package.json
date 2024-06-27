@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+  "publishConfig": { "access": "public" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "c998c3e225b5f6b8c79c0516602e4542384508f2"
+  "gitHead": "3cd8a65a38839fcbb907c55e87aedde5b6be8e2e"
 }
