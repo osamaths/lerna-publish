@@ -1,6 +1,6 @@
 {
   "name": "@osamaths/lerna-storybook",
-  "version": "0.0.1-alpha.3+d8fd22a",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
