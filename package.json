@@ -1,0 +1,21 @@
+{
+  "name": "lerna-publish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osamaths/lerna-publish.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osamaths/lerna-publish/issues"
+  },
+  "homepage": "https://github.com/osamaths/lerna-publish#readme"
+}
