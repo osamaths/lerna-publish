@@ -1,6 +1,6 @@
 {
   "name": "@osamaths/lerna-storybook",
-  "version": "1.0.0",
+  "version": "0.0.1-alpha.2+d2e0eae",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -8,5 +8,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "d2e0eae78ef90c9c2d1488c3b0caaee15ba981a6"
 }
