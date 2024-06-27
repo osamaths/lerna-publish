@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "type": "module",
-  "workspaces": ["packages/*"],
+  "publishConfig": { "access": "public" },
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/osamaths/lerna-publish/issues"
   },
-  "homepage": "https://github.com/osamaths/lerna-publish#readme"
+  "homepage": "https://github.com/osamaths/lerna-publish#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^8.1.3"
+  }
 }
