@@ -1,3 +1,3 @@
 export function getStorybook() {
-    return "Hello Storybook";
+    return "Hello Storybook 2";
 }

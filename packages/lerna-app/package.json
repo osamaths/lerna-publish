@@ -12,5 +12,8 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "cb01827cc55df350ba8291e92dc98d385eff7373"
+  "gitHead": "cb01827cc55df350ba8291e92dc98d385eff7373",
+  "dependencies": {
+    "@osamaths/lerna-storybook": "^0.0.2"
+  }
 }
